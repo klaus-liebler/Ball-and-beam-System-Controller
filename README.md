@@ -11,7 +11,7 @@ Inhalte:
 Hardwarekomponenten:
 - ESP32-S3-ETH:
   - Shop: https://shorturl.at/hZyFI
-  - Datenblatt: https://files.waveshare.com/wiki/common/Esp32-s3_datasheet_en.pdf
+  - Datenblatt: [ESP32 DevKitC Datenblatt](./Datenblätter/ESP32DevkitC.pdf)
 - ESP32-DevKitC:
   - Shop: https://shorturl.at/kggM6
   - Datenblatt: https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32/esp-dev-kits-en-master-esp32.pdf
