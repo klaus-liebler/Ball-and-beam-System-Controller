@@ -9,14 +9,17 @@ Inhalte:
 - Simulink: Systemsimulation
 
 Hardwarekomponenten:
+- ESP32-S3-ETH:
+  - Shop: 
 - 2 Time of Flight Sensoren:
   - Shop ->
-  Datenblatt -> 
+  - Datenblatt -> 
 - Hall Sensor, AS5600
-  Shop -> https://shorturl.at/CvAJA
-  Datenblatt -> 
-- Servormotor, Feetech STS3215: https://eckstein-shop.de/feetech-st-3215-c018-servo
-  ->
+  - Shop -> https://shorturl.at/CvAJA
+  - Datenblatt -> 
+- Servormotor, Feetech STS3215:
+  - Shop: https://eckstein-shop.de/feetech-st-3215-c018-servo
+  - Datenblatt: 
   Datenblatt -> 
 - TFT Display:
   Shop -> https://shorturl.at/0loGT
